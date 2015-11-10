@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python
 
 from subprocess import check_output as run
 import os
